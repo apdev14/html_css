@@ -1,0 +1,30 @@
+h1{ 
+    font-size: 26px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+h2{
+    font-size: 36px;
+    font-family: sans-serif;
+}
+
+p{
+    font-size: 22px;
+    font-family: sans-serif;
+    line-height: 1.5; 
+}
+
+li {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+/* 
+h1 = selector 
+{} = declaration block
+color: aqua = declaration
+color = property
+aqua = value
+*/
