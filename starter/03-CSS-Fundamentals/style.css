@@ -37,3 +37,17 @@ color: aqua = declaration
 color = property
 aqua = value
 */
+
+#author {
+  font-style: italic;
+  font-size: 18px;
+}
+
+.related-author {
+  font-size: 18px;
+  font-weight: bold ;
+}
+
+.related {
+  list-style: none;
+}
